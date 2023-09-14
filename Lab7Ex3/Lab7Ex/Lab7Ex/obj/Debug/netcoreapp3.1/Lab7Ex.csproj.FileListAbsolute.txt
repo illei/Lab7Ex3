@@ -1,0 +1,14 @@
+C:\Users\illei\source\repos\Laboratorul 7\Lab7Ex1\Lab7Ex\Lab7Ex\bin\Debug\netcoreapp3.1\Lab7Ex.exe
+C:\Users\illei\source\repos\Laboratorul 7\Lab7Ex1\Lab7Ex\Lab7Ex\bin\Debug\netcoreapp3.1\Lab7Ex.deps.json
+C:\Users\illei\source\repos\Laboratorul 7\Lab7Ex1\Lab7Ex\Lab7Ex\bin\Debug\netcoreapp3.1\Lab7Ex.runtimeconfig.json
+C:\Users\illei\source\repos\Laboratorul 7\Lab7Ex1\Lab7Ex\Lab7Ex\bin\Debug\netcoreapp3.1\Lab7Ex.runtimeconfig.dev.json
+C:\Users\illei\source\repos\Laboratorul 7\Lab7Ex1\Lab7Ex\Lab7Ex\bin\Debug\netcoreapp3.1\Lab7Ex.dll
+C:\Users\illei\source\repos\Laboratorul 7\Lab7Ex1\Lab7Ex\Lab7Ex\bin\Debug\netcoreapp3.1\Lab7Ex.pdb
+C:\Users\illei\source\repos\Laboratorul 7\Lab7Ex1\Lab7Ex\Lab7Ex\obj\Debug\netcoreapp3.1\Lab7Ex.csproj.AssemblyReference.cache
+C:\Users\illei\source\repos\Laboratorul 7\Lab7Ex1\Lab7Ex\Lab7Ex\obj\Debug\netcoreapp3.1\Lab7Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\illei\source\repos\Laboratorul 7\Lab7Ex1\Lab7Ex\Lab7Ex\obj\Debug\netcoreapp3.1\Lab7Ex.AssemblyInfoInputs.cache
+C:\Users\illei\source\repos\Laboratorul 7\Lab7Ex1\Lab7Ex\Lab7Ex\obj\Debug\netcoreapp3.1\Lab7Ex.AssemblyInfo.cs
+C:\Users\illei\source\repos\Laboratorul 7\Lab7Ex1\Lab7Ex\Lab7Ex\obj\Debug\netcoreapp3.1\Lab7Ex.csproj.CoreCompileInputs.cache
+C:\Users\illei\source\repos\Laboratorul 7\Lab7Ex1\Lab7Ex\Lab7Ex\obj\Debug\netcoreapp3.1\Lab7Ex.dll
+C:\Users\illei\source\repos\Laboratorul 7\Lab7Ex1\Lab7Ex\Lab7Ex\obj\Debug\netcoreapp3.1\Lab7Ex.pdb
+C:\Users\illei\source\repos\Laboratorul 7\Lab7Ex1\Lab7Ex\Lab7Ex\obj\Debug\netcoreapp3.1\Lab7Ex.genruntimeconfig.cache
